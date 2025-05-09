@@ -1,7 +1,3 @@
-streamlit
-pandas
-numpy
-ta
 python-binance
 import streamlit as st
 import pandas as pd
