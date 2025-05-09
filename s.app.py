@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import ta
+pip install ta
 from binance.client import Client
 import datetime
 
