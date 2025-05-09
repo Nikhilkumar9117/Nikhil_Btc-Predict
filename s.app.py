@@ -1,5 +1,9 @@
-import streamlit as st import pandas as pd import numpy as np import ta from binance.client import Client import datetime
-
+import streamlit as st
+import pandas as pd
+import numpy as np
+import ta
+from binance.client import Client
+import datetime
 Binance API keys (for public data only, no need for keys)
 
 client = Client()
